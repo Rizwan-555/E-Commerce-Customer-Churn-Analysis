@@ -198,7 +198,9 @@ E-Commerce-Customer-Churn-Analysis/
 ├── README.md
 │
 ├── data/
-│   └── ecommerce_customer_churn.csv
+│   ├── customer_churn.csv
+│   ├── customers.csv
+│   └── orders.csv
 │
 ├── sql/
 │   └── churn_analysis.sql
@@ -207,4 +209,20 @@ E-Commerce-Customer-Churn-Analysis/
 │   └── E-Commerce-Customer-Churn-Dashboard.pbix
 │
 └── screenshots/
-    └── dashboard.png
+    ├── Dashboard_Overview.png
+    └── Customer_Churn_Analysis.png
+```
+
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard analyzes customer churn, revenue performance, customer segments, delivery delays, discounts, cities, and product categories.
+
+### Dashboard Preview
+
+![Dashboard Overview](./screenshots/Dashboard_Overview.png)
+
+![Customer Churn Analysis](./screenshots/Customer_Churn_Analysis.png)
+
+### Power BI Dashboard File
+
+[Open Power BI Dashboard](./powerbi/E-Commerce-Customer-Churn-Dashboard.pbix)
