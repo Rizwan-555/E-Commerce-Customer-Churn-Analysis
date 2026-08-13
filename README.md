@@ -144,46 +144,49 @@ Interactive slicers allow users to analyze the dashboard by dimensions such as:
 
 The analysis identified several important customer and business patterns.
 
-### 1. Customer Churn
+### 1. Overall Churn
 
-The overall customer churn rate is approximately **42.8%** based on the analyzed customer dataset.
+Customer churn is approximately **42.8%**, indicating a significant customer retention challenge and a need for stronger retention strategies.
 
 ### 2. Customer Segment
 
-Premium customers showed the lowest churn rate compared with the other customer segments.
+**Premium customers have the lowest churn rate**, suggesting stronger engagement and loyalty among higher-value customers.
 
-### 3. Delivery Delays
+### 3. City-Level Churn
 
-Average delivery delay was analyzed between active and churned customers to identify whether delivery experience may be associated with customer churn.
+**Chennai contributes the highest number of churned customers**, making it a priority for further investigation and targeted customer-retention campaigns.
 
-### 4. Discounts
+### 4. Delivery Delay
 
-Average discount levels were compared between active and churned customers to understand the relationship between discounting and customer retention.
+Churned and active customers were compared based on average delivery delay. Monitoring delivery performance can help identify whether differences in shipping experience may be associated with customer churn.
 
 ### 5. High-Value Customers
 
-The top 10 customers were identified based on total revenue contribution, helping highlight high-value customers who may be important for retention strategies.
+The **top 10 customers contribute a significant share of total revenue**. These customers should be considered high-value accounts and prioritized for loyalty and retention initiatives.
 
-### 6. Revenue Performance
+### 6. Product Categories
 
-Revenue was analyzed across time and product categories to identify major revenue-generating periods and product categories.
+**Revenue varies considerably across product categories.** High-revenue categories should be monitored closely and considered for targeted promotions and cross-selling opportunities.
 
 ---
 
 ## 📌 Business Recommendations
 
-Based on the analysis, the business could consider:
+Based on the analysis, the following actions are recommended:
 
-- Prioritizing retention strategies for customers showing signs of churn.
-- Monitoring delivery performance and reducing unnecessary shipping delays.
-- Developing targeted retention campaigns for valuable customers.
-- Using customer segmentation to personalize offers.
-- Monitoring churn trends regularly through dashboards.
-- Using customer purchase behavior to identify opportunities for repeat purchases.
-- Creating targeted loyalty programs for high-value customers.
+- **Target At-Risk Customers:** Use churn indicators to identify customers who may be likely to stop purchasing and target them with personalized retention campaigns.
+
+- **Improve Delivery Experience:** Monitor shipping delays and investigate locations or orders where delivery performance is consistently poor.
+
+- **Protect High-Value Customers:** Create loyalty benefits and personalized offers for high-value and frequent customers.
+
+- **Segment-Based Marketing:** Use customer segments to create different marketing strategies rather than sending the same promotion to every customer.
+
+- **Optimize Discounts:** Use customer behavior and churn risk to provide targeted offers instead of giving discounts broadly.
+
+- **Monitor Churn Regularly:** Track churn rate, revenue, repeat purchases, and customer behavior through the Power BI dashboard so changes can be identified early.
 
 ---
-
 ## 📷 Dashboard Preview
 
 Power BI dashboard screenshots will be added to this repository.
