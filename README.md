@@ -187,11 +187,6 @@ Based on the analysis, the following actions are recommended:
 - **Monitor Churn Regularly:** Track churn rate, revenue, repeat purchases, and customer behavior through the Power BI dashboard so changes can be identified early.
 
 ---
-## 📷 Dashboard Preview
-
-Power BI dashboard screenshots will be added to this repository.
-
----
 
 ## 📂 Project Structure
 
